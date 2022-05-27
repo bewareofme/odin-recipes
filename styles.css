@@ -1,0 +1,26 @@
+.peachC{
+    color: orange;
+    font-size: 28px;
+}
+.cornoncob{
+    color: yellow;
+    font-size: 28px;
+    background-color: black;
+}
+.pastasalad{
+    color: green;
+    font-size: 28px;
+}
+.introduction{
+    font-size: 38px;
+}
+.ingredients{
+    font-size: 30px;
+}
+.steps{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.home{
+    color: red;
+}
